@@ -28,6 +28,7 @@ Import or copy the draw_neural_network function into your working environment.
 import matplotlib.pyplot as plt
 
 # Define your network structure
+# In the form layer number : number of nodes
 network_structure = {1: 2, 2: 5, 3: 4}
 
 
