@@ -22,6 +22,7 @@ pip install matplotlib
 ```
 
 ## Example
+Import or copy the draw_neural_network function into your working environment. 
 
 ```python
 import matplotlib.pyplot as plt
