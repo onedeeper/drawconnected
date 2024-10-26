@@ -2,7 +2,7 @@
 
 A Python function to draw fully connected (neural) network diagrams using Matplotlib. This tool allows you to visualize neural network architectures with control over node and layer spacings, colors, and supports high-resolution outputs with transparent backgrounds. It's ideal for presentations, publications, or web content.
 
-Generated with the help of GPT-o4
+Generated with the help of GPT-o1
 
 ## Features
 
